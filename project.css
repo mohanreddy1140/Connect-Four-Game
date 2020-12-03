@@ -1,0 +1,23 @@
+h1,h2{
+  text-align:center;
+  padding: 5px
+}
+
+#start{
+  text-align: center;
+  font-size: 30px
+}
+
+button{
+  height: 100px;
+  width: 100px;
+  background-color: gray;
+  border-radius:50%;
+  border: 5px solid black;
+  margin: 1px;
+
+}
+
+table{
+  border: 2px solid black;
+}
